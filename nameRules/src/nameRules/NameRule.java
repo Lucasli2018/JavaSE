@@ -1,0 +1,37 @@
+package nameRules;
+
+/**
+ * 命名规范 
+ * @author Administrator
+ *	
+ */
+public class NameRule {
+
+	public static void main(String[] args) {
+		Person p=new Person();
+		p.sayHello();		
+	}
+}
+
+// 类名首字母大写
+class Person{
+	
+	// 常量完全大写
+	public int WORKHOURS=8;
+	
+	// 属性首字母小写
+	private String name;
+	
+	// 方法名首字母小写
+	public void sayHello(){
+		
+		// 变量首字母小写
+		String text="this is a text";
+		
+		// 输出快捷键 : 输入syso,按alt+/ 弹出提示，  按enter
+		System.out.println("say hello");
+		
+		System.out.println(text);
+	}
+	
+}
