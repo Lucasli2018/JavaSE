@@ -1,0 +1,242 @@
+!SESSION 2019-03-25 23:45:06.834 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\github\JavaSE -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-25 23:45:15.812
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-25 23:46:15.054 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-25 23:46:28.585
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-25 23:56:01.618
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-25 23:56:01.618
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-25 23:56:01.646
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-25 23:56:01.646
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-26 00:03:40.219
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-26 00:03:40.220
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2019-03-26 00:22:35.860 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-03-26 00:22:38.105
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-26 00:22:47.113
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2019-03-26 01:01:04.653
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-26 01:05:36.987
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-26 01:05:36.988
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:05:45.798
+!MESSAGE The POM for commons-logging:commons-logging:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:05:49.383
+!MESSAGE The POM for commons-logging:commons-logging:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:05:53.177
+!MESSAGE The POM for org.apache.logging.log4j:log4j-jcl:jar:1.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:05:59.154
+!MESSAGE The POM for org.apache.logging.log4j:log4j-jcl:jar:1.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-26 01:08:17.226
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-26 01:08:17.227
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:30:31.564
+!MESSAGE The POM for org.apache.log4j:log4j-clp:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:30:35.408
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:31:01.554
+!MESSAGE The POM for org.apache.log4j:log4j-clp:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:31:01.556
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:32:05.883
+!MESSAGE The POM for org.apache.log4j:log4j-clp:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:32:16.051
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:32:25.122
+!MESSAGE The POM for org.apache.log4j:log4j-cpl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:32:25.125
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:32:25.708
+!MESSAGE The POM for org.apache.log4j:log4j-cpl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:32:25.709
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:33:01.688
+!MESSAGE The POM for org.apache.log4j:log4j-cpl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:33:08.724
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:33:44.321
+!MESSAGE The POM for org.apache.log4j:log4j-jcp:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:33:44.329
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:33:53.172
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:33:56.311
+!MESSAGE The POM for org.apache.log4j:log4j-jcp:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:33:59.985
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:11.941
+!MESSAGE The POM for org.apache.log4j:log4j-jcp:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:11.942
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:27.429
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:27.437
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:36.458
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:42.109
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:50.415
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:34:50.417
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:35:18.229
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:35:21.586
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:35:29.198
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:35:29.200
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:36:15.328
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:36:15.330
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:36:30.671
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:36:33.532
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:36:44.146
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:36:44.147
+!MESSAGE The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-26 01:36:58.437
+!MESSAGE The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-03-26 01:42:11.417
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:39)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:909)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:341)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:524)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:76)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:112)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:127)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:132)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:229)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.util.TransportUtil.verifyAvailability(TransportUtil.java:135)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.SiteVerifier$VerifyUpdateSiteJob.call(SiteVerifier.java:135)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.SiteVerifier$VerifyUpdateSiteJob.call(SiteVerifier.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-03-26 01:42:11.419
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:39)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:909)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:341)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:524)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:76)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:112)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:127)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:132)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:229)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.util.TransportUtil.verifyAvailability(TransportUtil.java:135)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.SiteVerifier$VerifyUpdateSiteJob.call(SiteVerifier.java:135)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.SiteVerifier$VerifyUpdateSiteJob.call(SiteVerifier.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)

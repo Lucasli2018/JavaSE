@@ -1,0 +1,834 @@
+2019-03-25 23:55:14,787 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\github\JavaSE\maven\pom.xml
+2019-03-25 23:55:15,857 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-25 23:55:16,536 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/main/java
+2019-03-25 23:55:16,541 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/test/java
+2019-03-25 23:55:16,619 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-03-25 23:55:16,955 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:55:16,956 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-25 23:55:16,958 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:55:16,958 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-25 23:56:52,222 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-25 23:56:53,076 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:56:53,076 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-25 23:56:53,078 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:56:53,078 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-25 23:57:01,955 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-25 23:57:02,352 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-25 23:57:02,497 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/main/java
+2019-03-25 23:57:02,497 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/test/java
+2019-03-25 23:57:02,599 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-25 23:57:02,762 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:57:02,762 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-25 23:57:02,764 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:57:02,764 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-25 23:57:46,252 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-25 23:57:46,425 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:57:46,425 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-25 23:57:46,427 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:57:46,427 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-25 23:57:47,684 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:57:47,685 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-25 23:57:47,686 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:57:47,686 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-25 23:58:03,875 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-25 23:58:04,308 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-25 23:58:04,453 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/main/java
+2019-03-25 23:58:04,454 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/test/java
+2019-03-25 23:58:04,534 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-25 23:58:04,676 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:58:04,677 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-25 23:58:04,678 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 23:58:04,679 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:02:12,068 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-26 00:02:13,240 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:02:13,241 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:02:13,242 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:02:13,242 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:02:26,615 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 00:02:26,852 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-26 00:02:26,964 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/main/java
+2019-03-26 00:02:26,964 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven/src/test/java
+2019-03-26 00:02:27,103 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 00:02:27,295 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:02:27,296 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:02:27,298 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:02:27,298 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:03:08,417 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:03:08,417 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:03:08,418 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:03:08,418 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:03:48,391 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:03:48,391 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:03:48,392 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:03:48,392 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:03:57,746 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/junit/junit/4.12/junit-4.12-sources.jar
+2019-03-26 00:03:58,034 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/junit/junit/4.12/junit-4.12-sources.jar
+2019-03-26 00:03:58,121 [Worker-14] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2019-03-26 00:03:58,343 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:03:58,343 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:03:58,348 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:03:58,348 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:04:37,881 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:04:37,882 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:04:37,883 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:04:37,883 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:05:18,380 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:05:18,380 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:05:18,382 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:05:18,382 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:05:33,885 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:05:33,885 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:05:33,886 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:05:33,887 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:05:51,458 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:05:51,459 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:05:51,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:05:51,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:06:01,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:06:01,116 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:06:01,117 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:06:01,118 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:06:10,318 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:06:10,319 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:06:10,320 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:06:10,320 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:22:49,267 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-26 00:22:53,350 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:22:53,350 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 00:22:53,352 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 00:22:53,353 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 00:59:46,539 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/1.0/maven-archetype-j2ee-simple-1.0.jar
+2019-03-26 00:59:46,852 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/1.0/maven-archetype-j2ee-simple-1.0.jar
+2019-03-26 00:59:47,161 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/1.0/maven-archetype-j2ee-simple-1.0.pom
+2019-03-26 00:59:47,437 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/1.0/maven-archetype-j2ee-simple-1.0.pom
+2019-03-26 01:00:23,809 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\github\JavaSE\helloMaven\pom.xml
+2019-03-26 01:00:23,920 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:00:24,018 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloMaven/src/main/java
+2019-03-26 01:00:24,023 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloMaven/src/test/java
+2019-03-26 01:00:24,110 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-03-26 01:00:24,458 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:00:24,459 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:00:24,460 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:00:24,460 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:01:12,840 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:01:12,912 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:01:12,912 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:01:12,913 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:01:12,914 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:02:01,870 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:02:01,926 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:02:01,926 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:02:01,928 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:02:01,928 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:02:03,175 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:02:03,175 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:02:03,176 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:02:03,177 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:03:46,633 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:03:47,247 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2019-03-26 01:03:47,439 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2019-03-26 01:03:47,600 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2019-03-26 01:03:47,795 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2019-03-26 01:03:47,998 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2019-03-26 01:03:48,640 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2019-03-26 01:03:48,755 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:03:48,755 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:03:48,756 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:03:48,756 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:03:50,001 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:03:50,001 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:03:50,002 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:03:50,002 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:04:28,698 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:04:28,749 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:04:28,750 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:04:28,751 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:04:28,751 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:04:30,895 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:04:30,945 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:04:30,945 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:04:30,948 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:04:30,948 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:05:42,515 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:05:44,754 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/2.8.2/commons-logging-2.8.2.pom
+2019-03-26 01:05:45,625 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/2.8.2/commons-logging-2.8.2.pom
+2019-03-26 01:05:45,792 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/2.8.2/commons-logging-2.8.2.pom
+2019-03-26 01:05:45,796 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-logging:commons-logging:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:05:49,339 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/1.2/log4j-jcl-1.2.pom
+2019-03-26 01:05:49,380 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/2.8.2/commons-logging-2.8.2.pom
+2019-03-26 01:05:49,382 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-logging:commons-logging:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:05:53,176 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/1.2/log4j-jcl-1.2.pom
+2019-03-26 01:05:53,177 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.logging.log4j:log4j-jcl:jar:1.2 is missing, no dependency information available
+2019-03-26 01:05:59,150 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/1.2/log4j-jcl-1.2.pom
+2019-03-26 01:05:59,153 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.logging.log4j:log4j-jcl:jar:1.2 is missing, no dependency information available
+2019-03-26 01:06:25,759 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/2.8.2/commons-logging-2.8.2.jar
+2019-03-26 01:06:25,760 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/1.2/log4j-jcl-1.2.jar
+2019-03-26 01:06:25,778 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/2.8.2/commons-logging-2.8.2.jar
+2019-03-26 01:06:25,778 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/1.2/log4j-jcl-1.2.jar
+2019-03-26 01:06:26,078 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:06:26,516 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:06:26,537 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:06:26,680 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:06:26,683 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:06:26,823 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j/2.8.2/log4j-2.8.2.pom
+2019-03-26 01:06:26,866 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j/2.8.2/log4j-2.8.2.pom
+2019-03-26 01:06:27,054 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j/2.8.2/log4j-2.8.2.pom
+2019-03-26 01:06:27,151 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j/2.8.2/log4j-2.8.2.pom
+2019-03-26 01:06:27,295 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/logging-parent/1/logging-parent-1.pom
+2019-03-26 01:06:27,327 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/logging-parent/1/logging-parent-1.pom
+2019-03-26 01:06:27,462 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/logging-parent/1/logging-parent-1.pom
+2019-03-26 01:06:27,487 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/logging-parent/1/logging-parent-1.pom
+2019-03-26 01:06:27,628 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/apache/18/apache-18.pom
+2019-03-26 01:06:27,681 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/apache/18/apache-18.pom
+2019-03-26 01:06:27,776 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/apache/18/apache-18.pom
+2019-03-26 01:06:27,873 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/apache/18/apache-18.pom
+2019-03-26 01:06:27,932 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.pom
+2019-03-26 01:06:28,141 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.pom
+2019-03-26 01:06:28,201 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.pom
+2019-03-26 01:06:28,286 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.pom
+2019-03-26 01:06:28,386 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:06:28,435 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:06:28,553 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:06:28,593 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:06:28,756 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.jar
+2019-03-26 01:06:28,759 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.jar
+2019-03-26 01:06:29,090 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.jar
+2019-03-26 01:06:29,238 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:06:29,238 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:06:29,239 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:06:29,239 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:06:29,507 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.jar
+2019-03-26 01:06:30,438 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:06:30,438 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:06:30,438 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:06:30,438 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:06:30,590 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/2.8.2/commons-logging-2.8.2.jar
+2019-03-26 01:06:45,967 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-jcl/1.2/log4j-jcl-1.2.jar
+2019-03-26 01:07:13,506 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:07:14,105 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:07:14,288 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:07:14,470 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:07:15,294 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/logging/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:07:15,400 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:07:15,400 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:07:15,401 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:07:15,401 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:07:16,625 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:07:16,626 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:07:16,627 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:07:16,627 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:09:02,976 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:09:02,977 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:09:02,983 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:09:02,984 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:09:36,568 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 01:09:36,980 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:09:37,035 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.javase:maven:0.0.1-SNAPSHOT @ D:\github\JavaSE\maven\pom.xml.
+2019-03-26 01:09:37,184 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloMaven/src/main/java
+2019-03-26 01:09:37,185 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloMaven/src/test/java
+2019-03-26 01:09:37,278 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 01:09:37,490 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:09:37,490 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\main\resources
+2019-03-26 01:09:37,493 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:09:37,493 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:09:37,751 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:09:37,751 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\main\resources
+2019-03-26 01:09:37,752 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:09:37,752 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\maven\src\test\resources
+2019-03-26 01:10:42,387 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/maven-bundle-plugin/3.2.0/maven-bundle-plugin-3.2.0.pom
+2019-03-26 01:10:42,568 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/maven-bundle-plugin/3.2.0/maven-bundle-plugin-3.2.0.pom
+2019-03-26 01:10:42,769 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/felix-parent/4/felix-parent-4.pom
+2019-03-26 01:10:43,038 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/felix-parent/4/felix-parent-4.pom
+2019-03-26 01:10:43,174 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/apache/17/apache-17.pom
+2019-03-26 01:10:43,311 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/apache/17/apache-17.pom
+2019-03-26 01:10:43,523 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.pom
+2019-03-26 01:10:43,662 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.pom
+2019-03-26 01:10:43,943 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/biz/aQute/bnd/biz.aQute.bndlib/3.2.0/biz.aQute.bndlib-3.2.0.pom
+2019-03-26 01:10:44,087 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/biz/aQute/bnd/biz.aQute.bndlib/3.2.0/biz.aQute.bndlib-3.2.0.pom
+2019-03-26 01:10:44,231 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.pom
+2019-03-26 01:10:44,375 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.pom
+2019-03-26 01:10:44,537 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/felix-parent/2.1/felix-parent-2.1.pom
+2019-03-26 01:10:44,773 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/felix-parent/2.1/felix-parent-2.1.pom
+2019-03-26 01:10:44,918 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.core/4.1.0/org.osgi.core-4.1.0.pom
+2019-03-26 01:10:45,061 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.core/4.1.0/org.osgi.core-4.1.0.pom
+2019-03-26 01:10:45,220 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/easymock/easymock/3.4/easymock-3.4.pom
+2019-03-26 01:10:45,366 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/easymock/easymock/3.4/easymock-3.4.pom
+2019-03-26 01:10:45,643 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/easymock/easymock-parent/3.4/easymock-parent-3.4.pom
+2019-03-26 01:10:45,812 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/easymock/easymock-parent/3.4/easymock-parent-3.4.pom
+2019-03-26 01:10:45,969 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/objenesis/objenesis/2.2/objenesis-2.2.pom
+2019-03-26 01:10:46,117 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/objenesis/objenesis/2.2/objenesis-2.2.pom
+2019-03-26 01:10:46,287 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/objenesis/objenesis-parent/2.2/objenesis-parent-2.2.pom
+2019-03-26 01:10:46,561 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/objenesis/objenesis-parent/2.2/objenesis-parent-2.2.pom
+2019-03-26 01:10:46,763 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.pom
+2019-03-26 01:10:46,905 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.pom
+2019-03-26 01:10:47,061 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.pom
+2019-03-26 01:10:47,220 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.pom
+2019-03-26 01:10:47,558 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-core/2.2.0/maven-core-2.2.0.pom
+2019-03-26 01:10:47,719 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-core/2.2.0/maven-core-2.2.0.pom
+2019-03-26 01:10:47,874 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven/2.2.0/maven-2.2.0.pom
+2019-03-26 01:10:48,034 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven/2.2.0/maven-2.2.0.pom
+2019-03-26 01:10:48,209 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-settings/2.2.0/maven-settings-2.2.0.pom
+2019-03-26 01:10:48,461 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-settings/2.2.0/maven-settings-2.2.0.pom
+2019-03-26 01:10:48,619 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
+2019-03-26 01:10:48,763 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
+2019-03-26 01:10:49,000 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.2.0/maven-plugin-parameter-documenter-2.2.0.pom
+2019-03-26 01:10:49,197 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.2.0/maven-plugin-parameter-documenter-2.2.0.pom
+2019-03-26 01:10:49,508 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.pom
+2019-03-26 01:10:49,670 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.pom
+2019-03-26 01:10:49,846 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting/2.2.0/maven-reporting-2.2.0.pom
+2019-03-26 01:10:50,018 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting/2.2.0/maven-reporting-2.2.0.pom
+2019-03-26 01:10:50,185 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom
+2019-03-26 01:10:50,454 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom
+2019-03-26 01:10:50,617 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom
+2019-03-26 01:10:50,792 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom
+2019-03-26 01:10:50,938 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom
+2019-03-26 01:10:51,141 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom
+2019-03-26 01:10:51,400 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
+2019-03-26 01:10:51,537 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
+2019-03-26 01:10:51,708 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
+2019-03-26 01:10:51,842 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
+2019-03-26 01:10:51,984 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/1.2-alpha-9/plexus-classworlds-1.2-alpha-9.pom
+2019-03-26 01:10:52,251 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/1.2-alpha-9/plexus-classworlds-1.2-alpha-9.pom
+2019-03-26 01:10:52,412 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/1.0.10/plexus-1.0.10.pom
+2019-03-26 01:10:52,563 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/1.0.10/plexus-1.0.10.pom
+2019-03-26 01:10:52,730 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-profile/2.2.0/maven-profile-2.2.0.pom
+2019-03-26 01:10:52,880 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-profile/2.2.0/maven-profile-2.2.0.pom
+2019-03-26 01:10:53,147 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact/2.2.0/maven-artifact-2.2.0.pom
+2019-03-26 01:10:53,301 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact/2.2.0/maven-artifact-2.2.0.pom
+2019-03-26 01:10:53,463 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/2.2.0/maven-repository-metadata-2.2.0.pom
+2019-03-26 01:10:53,595 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/2.2.0/maven-repository-metadata-2.2.0.pom
+2019-03-26 01:10:53,785 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-error-diagnostics/2.2.0/maven-error-diagnostics-2.2.0.pom
+2019-03-26 01:10:54,057 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-error-diagnostics/2.2.0/maven-error-diagnostics-2.2.0.pom
+2019-03-26 01:10:54,209 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-project/2.2.0/maven-project-2.2.0.pom
+2019-03-26 01:10:54,353 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-project/2.2.0/maven-project-2.2.0.pom
+2019-03-26 01:10:54,520 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact-manager/2.2.0/maven-artifact-manager-2.2.0.pom
+2019-03-26 01:10:54,717 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact-manager/2.2.0/maven-artifact-manager-2.2.0.pom
+2019-03-26 01:10:54,985 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-registry/2.2.0/maven-plugin-registry-2.2.0.pom
+2019-03-26 01:10:55,131 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-registry/2.2.0/maven-plugin-registry-2.2.0.pom
+2019-03-26 01:10:55,289 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-cli/commons-cli/1.2/commons-cli-1.2.pom
+2019-03-26 01:10:55,440 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-cli/commons-cli/1.2/commons-cli-1.2.pom
+2019-03-26 01:10:55,594 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-parent/11/commons-parent-11.pom
+2019-03-26 01:10:55,897 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-parent/11/commons-parent-11.pom
+2019-03-26 01:10:56,072 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-api/2.2.0/maven-plugin-api-2.2.0.pom
+2019-03-26 01:10:56,214 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-api/2.2.0/maven-plugin-api-2.2.0.pom
+2019-03-26 01:10:56,448 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.2.0/maven-plugin-descriptor-2.2.0.pom
+2019-03-26 01:10:56,613 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.2.0/maven-plugin-descriptor-2.2.0.pom
+2019-03-26 01:10:56,951 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-monitor/2.2.0/maven-monitor-2.2.0.pom
+2019-03-26 01:10:57,113 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-monitor/2.2.0/maven-monitor-2.2.0.pom
+2019-03-26 01:10:57,363 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.1/maven-dependency-tree-2.1.pom
+2019-03-26 01:10:57,506 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.1/maven-dependency-tree-2.1.pom
+2019-03-26 01:10:57,661 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2019-03-26 01:10:57,936 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2019-03-26 01:10:58,120 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2019-03-26 01:10:58,303 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2019-03-26 01:10:58,466 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2019-03-26 01:10:58,614 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2019-03-26 01:10:58,871 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom
+2019-03-26 01:10:59,046 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom
+2019-03-26 01:10:59,187 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2019-03-26 01:10:59,343 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2019-03-26 01:10:59,495 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2019-03-26 01:10:59,768 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2019-03-26 01:10:59,914 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom
+2019-03-26 01:11:00,060 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom
+2019-03-26 01:11:00,209 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom
+2019-03-26 01:11:00,350 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom
+2019-03-26 01:11:00,612 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-parent/10/maven-parent-10.pom
+2019-03-26 01:11:00,804 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-parent/10/maven-parent-10.pom
+2019-03-26 01:11:01,346 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.pom
+2019-03-26 01:11:01,489 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.pom
+2019-03-26 01:11:01,636 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sitetools/1.0/doxia-sitetools-1.0.pom
+2019-03-26 01:11:01,891 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sitetools/1.0/doxia-sitetools-1.0.pom
+2019-03-26 01:11:02,056 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.pom
+2019-03-26 01:11:02,204 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.pom
+2019-03-26 01:11:02,365 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.pom
+2019-03-26 01:11:02,639 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.pom
+2019-03-26 01:11:02,801 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.pom
+2019-03-26 01:11:02,969 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.pom
+2019-03-26 01:11:03,143 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-components/1.1.12/plexus-components-1.1.12.pom
+2019-03-26 01:11:03,292 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-components/1.1.12/plexus-components-1.1.12.pom
+2019-03-26 01:11:03,546 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.pom
+2019-03-26 01:11:03,692 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.pom
+2019-03-26 01:11:03,838 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
+2019-03-26 01:11:04,005 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
+2019-03-26 01:11:04,161 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
+2019-03-26 01:11:04,348 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
+2019-03-26 01:11:04,501 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/1.3/plexus-utils-1.3.pom
+2019-03-26 01:11:04,648 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/1.3/plexus-utils-1.3.pom
+2019-03-26 01:11:04,929 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2019-03-26 01:11:05,086 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2019-03-26 01:11:05,239 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/1.2-alpha-7/plexus-classworlds-1.2-alpha-7.pom
+2019-03-26 01:11:05,490 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/1.2-alpha-7/plexus-classworlds-1.2-alpha-7.pom
+2019-03-26 01:11:05,628 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/1.0.9/plexus-1.0.9.pom
+2019-03-26 01:11:05,777 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus/1.0.9/plexus-1.0.9.pom
+2019-03-26 01:11:06,021 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/velocity/velocity/1.5/velocity-1.5.pom
+2019-03-26 01:11:06,170 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/velocity/velocity/1.5/velocity-1.5.pom
+2019-03-26 01:11:06,317 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2019-03-26 01:11:06,468 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2019-03-26 01:11:06,744 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/oro/oro/2.0.8/oro-2.0.8.pom
+2019-03-26 01:11:06,921 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/oro/oro/2.0.8/oro-2.0.8.pom
+2019-03-26 01:11:07,089 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.pom
+2019-03-26 01:11:07,351 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.pom
+2019-03-26 01:11:07,510 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2019-03-26 01:11:07,769 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2019-03-26 01:11:07,927 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.pom
+2019-03-26 01:11:08,191 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.pom
+2019-03-26 01:11:08,335 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-modules/1.0/doxia-modules-1.0.pom
+2019-03-26 01:11:08,486 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-modules/1.0/doxia-modules-1.0.pom
+2019-03-26 01:11:08,643 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.pom
+2019-03-26 01:11:08,885 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.pom
+2019-03-26 01:11:09,026 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.pom
+2019-03-26 01:11:09,176 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.pom
+2019-03-26 01:11:09,327 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.pom
+2019-03-26 01:11:09,475 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.pom
+2019-03-26 01:11:09,744 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/jdom/jdom/1.1/jdom-1.1.pom
+2019-03-26 01:11:09,890 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/jdom/jdom/1.1/jdom-1.1.pom
+2019-03-26 01:11:10,191 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/maven-bundle-plugin/3.2.0/maven-bundle-plugin-3.2.0.jar
+2019-03-26 01:11:10,532 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/maven-bundle-plugin/3.2.0/maven-bundle-plugin-3.2.0.jar
+2019-03-26 01:11:10,875 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
+2019-03-26 01:11:11,268 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
+2019-03-26 01:11:11,465 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/biz/aQute/bnd/biz.aQute.bndlib/3.2.0/biz.aQute.bndlib-3.2.0.jar
+2019-03-26 01:11:13,110 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/biz/aQute/bnd/biz.aQute.bndlib/3.2.0/biz.aQute.bndlib-3.2.0.jar
+2019-03-26 01:11:13,249 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.jar
+2019-03-26 01:11:13,499 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.jar
+2019-03-26 01:11:13,680 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/easymock/easymock/3.4/easymock-3.4.jar
+2019-03-26 01:11:14,172 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/easymock/easymock/3.4/easymock-3.4.jar
+2019-03-26 01:11:14,427 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/objenesis/objenesis/2.2/objenesis-2.2.jar
+2019-03-26 01:11:14,621 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/objenesis/objenesis/2.2/objenesis-2.2.jar
+2019-03-26 01:11:14,818 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.jar
+2019-03-26 01:11:15,036 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.jar
+2019-03-26 01:11:15,246 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.jar
+2019-03-26 01:11:15,885 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.jar
+2019-03-26 01:11:16,163 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-core/2.2.0/maven-core-2.2.0.jar
+2019-03-26 01:11:16,480 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-core/2.2.0/maven-core-2.2.0.jar
+2019-03-26 01:11:16,656 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-settings/2.2.0/maven-settings-2.2.0.jar
+2019-03-26 01:11:16,840 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-settings/2.2.0/maven-settings-2.2.0.jar
+2019-03-26 01:11:17,015 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.2.0/maven-plugin-parameter-documenter-2.2.0.jar
+2019-03-26 01:11:17,201 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.2.0/maven-plugin-parameter-documenter-2.2.0.jar
+2019-03-26 01:11:17,334 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar
+2019-03-26 01:11:17,584 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar
+2019-03-26 01:11:17,717 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+2019-03-26 01:11:17,865 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+2019-03-26 01:11:18,001 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+2019-03-26 01:11:18,271 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+2019-03-26 01:11:18,465 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.jar
+2019-03-26 01:11:18,617 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.jar
+2019-03-26 01:11:18,761 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar
+2019-03-26 01:11:18,910 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar
+2019-03-26 01:11:19,222 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-profile/2.2.0/maven-profile-2.2.0.jar
+2019-03-26 01:11:19,430 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-profile/2.2.0/maven-profile-2.2.0.jar
+2019-03-26 01:11:19,594 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.jar
+2019-03-26 01:11:19,832 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.jar
+2019-03-26 01:11:20,022 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact/2.2.0/maven-artifact-2.2.0.jar
+2019-03-26 01:11:20,364 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact/2.2.0/maven-artifact-2.2.0.jar
+2019-03-26 01:11:20,503 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/2.2.0/maven-repository-metadata-2.2.0.jar
+2019-03-26 01:11:20,707 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/2.2.0/maven-repository-metadata-2.2.0.jar
+2019-03-26 01:11:20,894 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-error-diagnostics/2.2.0/maven-error-diagnostics-2.2.0.jar
+2019-03-26 01:11:21,055 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-error-diagnostics/2.2.0/maven-error-diagnostics-2.2.0.jar
+2019-03-26 01:11:21,393 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-project/2.2.0/maven-project-2.2.0.jar
+2019-03-26 01:11:21,693 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-project/2.2.0/maven-project-2.2.0.jar
+2019-03-26 01:11:21,872 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-registry/2.2.0/maven-plugin-registry-2.2.0.jar
+2019-03-26 01:11:22,039 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-registry/2.2.0/maven-plugin-registry-2.2.0.jar
+2019-03-26 01:11:22,179 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+2019-03-26 01:11:22,458 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+2019-03-26 01:11:22,645 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-api/2.2.0/maven-plugin-api-2.2.0.jar
+2019-03-26 01:11:22,811 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-api/2.2.0/maven-plugin-api-2.2.0.jar
+2019-03-26 01:11:23,009 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.2.0/maven-plugin-descriptor-2.2.0.jar
+2019-03-26 01:11:23,207 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.2.0/maven-plugin-descriptor-2.2.0.jar
+2019-03-26 01:11:23,551 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact-manager/2.2.0/maven-artifact-manager-2.2.0.jar
+2019-03-26 01:11:23,767 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-artifact-manager/2.2.0/maven-artifact-manager-2.2.0.jar
+2019-03-26 01:11:23,907 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar
+2019-03-26 01:11:24,289 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar
+2019-03-26 01:11:24,475 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-monitor/2.2.0/maven-monitor-2.2.0.jar
+2019-03-26 01:11:24,630 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-monitor/2.2.0/maven-monitor-2.2.0.jar
+2019-03-26 01:11:24,764 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+2019-03-26 01:11:24,919 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+2019-03-26 01:11:25,178 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+2019-03-26 01:11:25,334 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+2019-03-26 01:11:25,466 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.1/maven-dependency-tree-2.1.jar
+2019-03-26 01:11:25,644 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-tree/2.1/maven-dependency-tree-2.1.jar
+2019-03-26 01:11:25,777 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2019-03-26 01:11:26,157 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2019-03-26 01:11:26,367 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2019-03-26 01:11:26,686 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2019-03-26 01:11:26,820 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2019-03-26 01:11:26,975 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2019-03-26 01:11:27,223 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.jar
+2019-03-26 01:11:27,379 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.jar
+2019-03-26 01:11:27,513 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.jar
+2019-03-26 01:11:27,701 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.jar
+2019-03-26 01:11:27,838 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.jar
+2019-03-26 01:11:28,141 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.jar
+2019-03-26 01:11:28,285 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.jar
+2019-03-26 01:11:28,436 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.jar
+2019-03-26 01:11:28,573 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar
+2019-03-26 01:11:28,822 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar
+2019-03-26 01:11:28,969 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/velocity/velocity/1.5/velocity-1.5.jar
+2019-03-26 01:11:29,325 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/velocity/velocity/1.5/velocity-1.5.jar
+2019-03-26 01:11:29,457 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/oro/oro/2.0.8/oro-2.0.8.jar
+2019-03-26 01:11:29,991 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/oro/oro/2.0.8/oro-2.0.8.jar
+2019-03-26 01:11:30,237 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.jar
+2019-03-26 01:11:30,456 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.jar
+2019-03-26 01:11:30,597 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2019-03-26 01:11:31,236 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2019-03-26 01:11:31,371 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.jar
+2019-03-26 01:11:31,687 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.jar
+2019-03-26 01:11:31,826 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.jar
+2019-03-26 01:11:31,978 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.jar
+2019-03-26 01:11:32,124 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.jar
+2019-03-26 01:11:32,284 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.jar
+2019-03-26 01:11:32,582 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.jar
+2019-03-26 01:11:32,766 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.jar
+2019-03-26 01:11:32,906 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/jdom/jdom/1.1/jdom-1.1.jar
+2019-03-26 01:11:33,302 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/jdom/jdom/1.1/jdom-1.1.jar
+2019-03-26 01:12:18,828 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:12:18,831 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:12:18,833 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:12:18,833 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:12:58,324 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:12:58,324 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:12:58,330 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:12:58,330 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:14:08,603 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:14:08,604 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:14:08,607 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:14:08,607 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:16:48,275 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:16:48,276 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:16:48,277 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:16:48,277 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:18:05,636 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:18:05,637 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:18:05,639 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:18:05,639 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:20:49,018 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:20:49,065 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:20:49,066 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:20:49,068 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:20:49,069 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:20:50,408 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:20:50,411 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:20:50,419 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:20:50,419 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:21:33,956 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:helloMaven:0.0.1-SNAPSHOT @ D:\github\JavaSE\helloMaven\pom.xml.
+2019-03-26 01:21:34,029 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:21:34,030 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:21:34,031 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:21:34,031 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:21:35,347 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:21:35,348 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:21:35,349 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:21:35,349 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-26 01:28:06,106 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\github\JavaSE\log4j\pom.xml
+2019-03-26 01:28:06,164 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:28:06,211 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/main/java
+2019-03-26 01:28:06,214 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/test/java
+2019-03-26 01:28:06,254 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-03-26 01:28:06,601 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:06,601 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\main\resources
+2019-03-26 01:28:06,602 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:06,602 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:28:26,134 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:28:26,191 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:26,191 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\main\resources
+2019-03-26 01:28:26,192 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:26,192 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:28:31,938 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:28:31,973 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:31,973 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\main\resources
+2019-03-26 01:28:31,974 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:31,974 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:28:33,187 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:33,187 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\main\resources
+2019-03-26 01:28:33,187 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:28:33,187 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:29:01,101 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:29:01,147 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:29:01,148 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\main\resources
+2019-03-26 01:29:01,149 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:29:01,149 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:29:02,338 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:29:02,338 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\main\resources
+2019-03-26 01:29:02,339 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:29:02,339 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:30:19,036 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:30:21,522 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.pom
+2019-03-26 01:30:31,558 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.pom
+2019-03-26 01:30:31,562 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-clp:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:30:34,559 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:30:35,404 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:30:35,407 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:30:39,152 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.jar
+2019-03-26 01:30:45,549 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:30:46,372 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.jar
+2019-03-26 01:30:47,201 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:30:47,239 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:30:47,239 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\main\resources
+2019-03-26 01:30:47,240 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:30:47,240 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:31:01,554 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-clp:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:31:01,555 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:31:01,568 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:31:01,569 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:31:01,570 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:31:01,570 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:31:16,206 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:31:16,206 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:31:16,213 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:31:16,213 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:31:48,154 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:31:48,154 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:31:48,158 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:31:48,158 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:32:02,884 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 01:32:03,218 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:32:05,098 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.pom
+2019-03-26 01:32:05,880 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.pom
+2019-03-26 01:32:05,882 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-clp:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:32:12,261 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:32:16,045 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:32:16,049 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:32:21,818 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.jar
+2019-03-26 01:32:21,819 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:32:21,827 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-clp/2.8.2/log4j-clp-2.8.2.jar
+2019-03-26 01:32:21,827 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:32:22,305 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:32:24,346 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.pom
+2019-03-26 01:32:24,932 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.pom
+2019-03-26 01:32:25,119 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.pom
+2019-03-26 01:32:25,121 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-cpl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:32:25,124 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:32:25,707 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.pom
+2019-03-26 01:32:25,708 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-cpl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:32:25,709 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:32:56,545 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.jar
+2019-03-26 01:32:57,322 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.jar
+2019-03-26 01:32:58,128 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.jar
+2019-03-26 01:32:58,291 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:32:58,292 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:32:58,294 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:32:58,294 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:32:58,528 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 01:32:58,832 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:33:00,916 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.pom
+2019-03-26 01:33:01,687 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.pom
+2019-03-26 01:33:01,688 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-cpl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:33:04,956 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:33:08,718 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:33:08,722 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:33:39,989 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.jar
+2019-03-26 01:33:39,990 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:33:40,011 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-cpl/2.8.2/log4j-cpl-2.8.2.jar
+2019-03-26 01:33:40,012 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:33:41,515 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:33:43,160 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.pom
+2019-03-26 01:33:43,546 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.pom
+2019-03-26 01:33:44,316 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.pom
+2019-03-26 01:33:44,320 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcp:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:33:44,327 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:33:48,442 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.jar
+2019-03-26 01:33:49,387 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.jar
+2019-03-26 01:33:49,517 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:33:49,519 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:33:49,520 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:33:49,520 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:33:53,168 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.pom
+2019-03-26 01:33:53,172 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:33:53,187 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 01:33:53,451 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:33:55,522 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.pom
+2019-03-26 01:33:56,306 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.pom
+2019-03-26 01:33:56,310 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcp:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:33:59,219 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:33:59,979 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:33:59,983 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:05,000 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.jar
+2019-03-26 01:34:10,059 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:34:10,836 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcp/2.8.2/log4j-jcp-2.8.2.jar
+2019-03-26 01:34:11,616 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:34:11,736 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/main/java
+2019-03-26 01:34:11,736 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j/src/main/resources
+2019-03-26 01:34:11,740 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/test/java
+2019-03-26 01:34:11,797 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 18 sec
+2019-03-26 01:34:11,940 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcp:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:11,942 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:11,959 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:34:11,960 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:34:11,966 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:34:11,966 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:34:21,593 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:34:23,563 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:34:27,424 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:34:27,428 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:27,436 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:31,244 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:34:32,068 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:34:32,204 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:34:32,206 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:34:32,208 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:34:32,208 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:34:32,388 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 01:34:32,757 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:34:35,685 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:34:36,455 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:34:36,457 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:38,322 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:34:42,104 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:34:42,107 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:44,860 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:34:48,542 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:34:49,295 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:34:50,066 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:34:50,201 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/main/java
+2019-03-26 01:34:50,201 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j/src/main/resources
+2019-03-26 01:34:50,202 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/test/java
+2019-03-26 01:34:50,285 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 17 sec
+2019-03-26 01:34:50,415 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:50,417 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:34:50,437 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:34:50,437 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:34:50,447 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:34:50,447 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:35:15,051 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 01:35:15,311 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:35:17,471 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:35:18,224 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:35:18,228 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:35:20,817 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:35:21,584 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:35:21,585 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:35:24,957 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:35:27,368 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:35:28,138 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:35:28,899 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:35:29,021 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/main/java
+2019-03-26 01:35:29,021 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j/src/main/resources
+2019-03-26 01:35:29,022 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/test/java
+2019-03-26 01:35:29,081 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2019-03-26 01:35:29,198 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:35:29,200 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:35:29,224 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:35:29,224 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:35:29,233 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:35:29,233 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:35:39,506 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:35:39,583 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:35:39,585 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:35:39,586 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:35:39,586 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:35:40,830 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:35:40,831 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:35:40,837 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:35:40,837 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:36:15,322 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:36:15,327 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:36:15,329 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:36:15,432 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:36:15,433 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:36:15,434 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:36:15,435 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:36:27,711 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 01:36:27,965 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:36:29,612 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:36:30,665 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.pom
+2019-03-26 01:36:30,669 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:36:32,687 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:36:33,530 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.pom
+2019-03-26 01:36:33,531 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:36:36,883 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:36:42,216 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:36:43,026 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-jcl/2.8.2/log4j-jcl-2.8.2.jar
+2019-03-26 01:36:43,870 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar
+2019-03-26 01:36:43,983 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/main/java
+2019-03-26 01:36:43,983 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j/src/main/resources
+2019-03-26 01:36:43,983 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j/src/test/java
+2019-03-26 01:36:44,034 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2019-03-26 01:36:44,146 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:36:44,147 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-core:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:36:44,165 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:36:44,166 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:36:44,175 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:36:44,175 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:36:58,431 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:36:58,437 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.log4j:log4j-jcl:jar:2.8.2 is missing, no dependency information available
+2019-03-26 01:36:58,501 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:36:58,502 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:36:58,503 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:36:58,503 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:37:21,777 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:37:21,878 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:21,880 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:37:21,881 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:21,881 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:37:23,133 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:23,134 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:37:23,141 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:23,141 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:37:39,577 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:37:39,742 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:39,744 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:37:39,746 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:39,746 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:37:40,960 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:40,960 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:37:40,966 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:37:40,966 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:40:58,438 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:40:58,438 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:40:58,444 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:40:58,444 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:41:29,245 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:41:29,246 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:41:29,247 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:41:29,249 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:42:42,908 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:42:42,909 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:42:42,910 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:42:42,910 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:43:39,834 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:43:39,834 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:43:39,838 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:43:39,839 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:44:19,864 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:44:19,865 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:44:19,870 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:44:19,870 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:44:48,232 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:44:48,233 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:44:48,235 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:44:48,235 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:44:55,358 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:44:55,358 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:44:55,363 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:44:55,363 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:45:17,799 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:45:17,913 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:17,914 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:45:17,915 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:17,915 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:45:19,151 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:19,152 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:45:19,158 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:19,159 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:45:44,204 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:44,205 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:45:44,210 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:44,210 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:45:57,080 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:45:57,175 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:57,176 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:45:57,177 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:57,178 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:45:58,477 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:58,477 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:45:58,486 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:45:58,487 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:46:03,209 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lucas.maven:log4j:0.0.1-SNAPSHOT @ D:\github\JavaSE\log4j\pom.xml.
+2019-03-26 01:46:03,299 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:46:03,300 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 01:46:03,301 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:46:03,301 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources
+2019-03-26 01:46:24,029 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:46:24,030 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 01:46:24,042 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 01:46:24,043 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\log4j\src\test\resources

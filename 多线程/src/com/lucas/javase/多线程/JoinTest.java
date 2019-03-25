@@ -8,7 +8,7 @@ public class JoinTest extends Thread{
 		for (int i = 0; i < num; i++) {
 			System.out.println("Thread run");
 			try {
-				Thread.sleep(100);
+				Thread.sleep(1000);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
