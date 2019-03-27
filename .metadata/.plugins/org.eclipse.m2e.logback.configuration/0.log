@@ -1102,3 +1102,7 @@
 2019-03-27 22:08:54,999 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-03-27 22:08:55,000 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-27 22:08:55,000 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources
+2019-03-27 22:25:25,317 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 22:25:25,318 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 22:25:25,319 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 22:25:25,319 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\github\JavaSE\helloMaven\src\test\resources

@@ -20,7 +20,6 @@ INDEX VERSION 1.129+D:\github\JavaSE\.metadata\.plugins\org.eclipse.jdt.core
 4236009997.index
 1651349548.index
 2456598540.index
-1041406795.index
 1755288759.index
 509712851.index
 3595501185.index
