@@ -42,6 +42,18 @@
 			<item value="[name]"/>
 		</list>
 	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 		</list>
@@ -56,6 +68,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.lucas.maven.smtp"/>
+			<item value="com.lucas.maven"/>
 			<item value="com.lucas.maven.log4j"/>
 			<item value="com.lucas.maven.helloMaven"/>
 		</list>
@@ -63,6 +77,7 @@
 			<item value="com.lucas.maven"/>
 		</list>
 		<list key="artifactId">
+			<item value="smtp"/>
 			<item value="log4j"/>
 			<item value="helloMaven"/>
 		</list>
