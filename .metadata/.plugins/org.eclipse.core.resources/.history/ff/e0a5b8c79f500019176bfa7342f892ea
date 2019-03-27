@@ -1,0 +1,17 @@
+package com.lucas.javase.tcp±à³Ì;
+
+import java.net.InetAddress;
+
+/**
+ * tcp¿Í»§¶Ë
+ * @author Administrator
+ *
+ */
+public class TCPClient {
+
+	public static void main(String[] args) {
+		InetAddress addr=InetAddress.getLoopbackAddress();//127.0.0.1
+		
+	}
+
+}

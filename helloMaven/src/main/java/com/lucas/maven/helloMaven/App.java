@@ -1,8 +1,5 @@
 package com.lucas.maven.helloMaven;
 
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
-
 /**
  * Hello world!
  *

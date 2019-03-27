@@ -1,0 +1,13 @@
+package com.lucas.javase.udp±à³Ì;
+/**
+ * upd·şÎñÆ÷¶Ë
+ * @author Administrator
+ *
+ */
+public class UPDServer {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

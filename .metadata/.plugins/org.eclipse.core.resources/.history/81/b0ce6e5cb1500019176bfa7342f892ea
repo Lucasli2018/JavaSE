@@ -1,0 +1,14 @@
+package com.lucas.maven.smtp;
+
+public class SendMail {
+
+	final String smtpHost;
+	final String username;
+	final String password;
+	final boolean debug;
+	
+	public static void main(String[] args) {
+
+	}
+
+}

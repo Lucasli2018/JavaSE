@@ -1,0 +1,43 @@
+package com.lucas.javase.tcp±à³Ì;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.nio.charset.StandardCharsets;
+import java.time.LocalDateTime;
+
+/**
+ * ·þÎñÆ÷¶Ë
+ * @author Administrator
+ *
+ */
+public class TCPServer {
+
+	public static void main(String[] args) throws IOException, InterruptedException {
+		ServerSocket ss=new ServerSocket(9090);
+		System.out.println("TCP Server ready.");
+		Socket sock=ss.accept();
+		System.out.println("accept.");
+		System.out.println("wait 8 seconds¡£¡£¡£");
+		Thread.sleep(8000);
+		try(BufferedReader reader=new BufferedReader(
+				new InputStreamReader(sock.getInputStream(), StandardCharsets.UTF_8))){
+			try(BufferedWriter writer=new BufferedWriter(
+					new OutputStreamWriter(sock.getOutputStream(),StandardCharsets.UTF_8))){
+				String cmd=reader.readLine();
+				if("time".equals(cmd)){
+					writer.write(LocalDateTime.now().toString());
+					writer.flush();
+				}else{
+					writer.write("Sorry?\n");
+					writer.flush();
+				}
+			}
+		}
+	}
+
+}

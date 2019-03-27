@@ -9,7 +9,6 @@
 </parent>
 
   <artifactId>greeting</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>helloMaven</name>

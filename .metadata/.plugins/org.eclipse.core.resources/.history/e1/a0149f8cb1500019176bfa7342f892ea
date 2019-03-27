@@ -1,0 +1,19 @@
+package com.lucas.maven.smtp;
+
+public class SendMail {
+
+	final String smtpHost;
+	final String username;
+	final String password;
+	final boolean debug;
+	public SendMail(String smtpHost, String username, String password) {
+		this.smtpHost = smtpHost;
+		this.username = username;
+		this.password = password;
+		this.debug = true;
+	}
+	public static void main(String[] args) {
+		SendMail sender = new SendMail("smtp.sina.com", "javacourse001@sina.com", "java-12345678");
+	}
+
+}
