@@ -11,7 +11,13 @@ public class App
 {
     public static void main( String[] args )
     {
-    	Log log=LogFactory.getLog(App.class);
-    	log.info("Hello world!!");
+    	Greeting.print("Maven");
+    }
+    int sum(int ...ns){
+    	int x=0;
+    	for (int i : ns) {
+			x+=i;
+		}
+    	return x;
     }
 }

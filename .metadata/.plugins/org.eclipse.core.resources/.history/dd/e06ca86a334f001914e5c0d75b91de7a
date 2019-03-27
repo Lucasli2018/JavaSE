@@ -1,0 +1,17 @@
+package com.lucas.maven.helloMaven;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
+{
+	@Test
+    public void testApp()
+    {
+        assertTrue( 6,new App().sum(1,2,3) );
+    }
+}
