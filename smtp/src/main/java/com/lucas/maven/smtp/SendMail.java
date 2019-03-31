@@ -28,7 +28,7 @@ public class SendMail {
 	public static void main(String[] args) throws Exception {
 		SendMail sender = new SendMail("smtp.163.com", "15601658837@163.com", "0518llq");//这里的密码是授权码，不是邮箱密码！
 		Session session = sender.createSSLSession();
-		Message message = createTextMessage(session, "15601658837@163.com", "15601658837@163.com", "Java邮件测试",
+		Message message = createTextMessage(session, "15601658837@163.com", "1906859953@qq.com", "Java邮件测试",
 				"Hello, 这是一封javamail测试邮件！");
 		Transport.send(message);
 	}

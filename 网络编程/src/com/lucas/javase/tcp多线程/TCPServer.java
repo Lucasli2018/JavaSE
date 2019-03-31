@@ -21,7 +21,6 @@ public class TCPServer {
 		@SuppressWarnings("resource")
 		ServerSocket ss=new ServerSocket(9090);
 		System.out.println("TCP Server ready.");
-		System.out.println("wait for port:9090");
 		
 		for(;;){
 			//程序会在这里等待9090端口发送数据

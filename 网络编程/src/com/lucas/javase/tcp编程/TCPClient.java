@@ -24,6 +24,7 @@ public class TCPClient {
 					new InputStreamReader(sock.getInputStream(), StandardCharsets.UTF_8)) ){
 				try(BufferedWriter writer=new BufferedWriter(
 						new OutputStreamWriter(sock.getOutputStream(),StandardCharsets.UTF_8))){
+					System.out.println("port 9090 send request...");
 					writer.write("time\n");
 					writer.flush();
 					String resp=reader.readLine();
